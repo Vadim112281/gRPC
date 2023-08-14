@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPC", "gRPC\gRPC.csproj", "{CEABC3A3-0A29-4BE4-B4AA-446F3B7DA99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEABC3A3-0A29-4BE4-B4AA-446F3B7DA99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEABC3A3-0A29-4BE4-B4AA-446F3B7DA99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEABC3A3-0A29-4BE4-B4AA-446F3B7DA99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEABC3A3-0A29-4BE4-B4AA-446F3B7DA99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
